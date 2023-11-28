@@ -5,6 +5,8 @@
 * You may use the entire page freely, dont feel restricted to use the graph's canvas. Focus on provide a smooth user experience while implementing the requirements.
 * Good Luck!
 
+## Requirements
+
 1. Allow the user to click a node and visualize information from it. (name, indegree, outdegree, any other you deem important)
 2. Highlight all the edges connected to the selected node after click. (currently the node turns blue after clicking, do the same for it edges).
 3. Allow the user to change the name of a node. (Does not need to be persistent, after refreshing the page the nodes could be the same as they originally were)
@@ -16,8 +18,8 @@
 
 ## Bonus
 
-.9 Provide a way for the user to compute the shortest path (if exists any) from one node to another. Higlight the path.
-.10 Anything you think that could be interesting
+9. Provide a way for the user to compute the shortest path (if exists any) from one node to another. Higlight the path.
+10. Anything you think that could be interesting
 
 You should checkout cytoscape documentation here https://js.cytoscape.org/
 
