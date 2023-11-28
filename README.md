@@ -3,6 +3,7 @@
 * You are **not** obligated to implement all the requirements, quality over quantity.
 * You are free to change anything in the code as long as the **cytoscape library** is still in use with the given example graph.
 * You may use the entire page freely, you can use the graph's canvas as you please. Focus on provide a smooth user experience while implementing the requirements.
+* Instructions are provided on how to get started in sections below.
 * Good Luck!
 
 ## Requirements
