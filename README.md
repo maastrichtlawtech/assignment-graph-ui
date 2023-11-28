@@ -1,8 +1,8 @@
 # Assignment
 
-* You don't need to implement all the requirements, just try to do as much as possible.
-* Feel free to change anything in the code as long as you keep using the library cytoscape with the given example graph.
-* You may use the entire page freely, dont feel restricted to use the graph's canvas. Focus on provide a smooth user experience while implementing the requirements.
+* You are **not** obligated to implement all the requirements, quality over quantity.
+* You are free to change anything in the code as long as the **cytoscape library** is still in use with the given example graph.
+* You may use the entire page freely, you can use the graph's canvas as you please. Focus on provide a smooth user experience while implementing the requirements.
 * Good Luck!
 
 ## Requirements
@@ -19,12 +19,10 @@
 ## Bonus
 
 9. Provide a way for the user to compute the shortest path (if exists any) from one node to another. Higlight the path.
-10. Anything you think that could be interesting
+10. Allow the user to add notes to a cluster (like summary). If you have implemented point 5, then when a cluster is formed, display the top 'k' keywords based on all the nodes within the cluster.
+11. Anything you think that could be interesting.
 
 You should checkout cytoscape documentation here https://js.cytoscape.org/
-
-
-
 
 
 # Getting Started with Create React App
