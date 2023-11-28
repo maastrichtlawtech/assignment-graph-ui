@@ -23,6 +23,13 @@
 10. Allow the user to add notes to a cluster (like summary). If you have implemented point 5, then when a cluster is formed, display the top 'k' keywords based on all the nodes within the cluster.
 11. Anything you think that could be interesting.
 
+## Submission
+
+1. Make a fork of this repo
+2. Implement your code with proper documentation. Tell us your thought process on implementing one or all of the requirements.
+3. Share your forked repo link with us once you have completed the implementations. 
+
+
 You should checkout cytoscape documentation here https://js.cytoscape.org/
 
 
