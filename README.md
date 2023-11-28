@@ -14,7 +14,8 @@
 7. Export the current graph as a json file. It could be similar to the original one we load, but this time it should also reflect the changes made by the user (clusters, new names, excluding the filtered nodes, etc)
 8. Import the graph from requirement 7
 
-###Bonus
+## Bonus
+
 .9 Provide a way for the user to compute the shortest path (if exists any) from one node to another. Higlight the path.
 .10 Anything you think that could be interesting
 
